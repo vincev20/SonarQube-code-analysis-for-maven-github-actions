@@ -21,7 +21,7 @@
     <!-- Versions -->
     <junit.jupiter.version>5.11.0</junit.jupiter.version>
     <jacoco.version>0.8.12</jacoco.version>
-    <fmt.version>2.2.4</fmt.version>
+    <fmt.version>2.29</fmt.version>
     <maven.surefire.version>3.5.0</maven.surefire.version>
     <maven.compiler.plugin.version>3.13.0</maven.compiler.plugin.version>
   </properties>
