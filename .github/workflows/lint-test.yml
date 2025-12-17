@@ -22,4 +22,4 @@ jobs:
       - name: Run style check and tests with coverage
         run: |
           mvn -B clean compile com.spotify.fmt:fmt-maven-plugin:check
-          mvn -B test jacoco:check
+          mvn -B clean verify
